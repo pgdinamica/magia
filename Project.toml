@@ -1,0 +1,8 @@
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+ImageMorphology = "787d08f9-d448-5407-9aad-5290dd7ab264"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+LocalFilters = "085fde7c-5f94-55e4-8448-8bbb5db6dde9"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
